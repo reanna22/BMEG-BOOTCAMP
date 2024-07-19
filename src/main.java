@@ -1,4 +1,4 @@
-class Main {
+class main {
     public static void main(String[] args) {
         int[] boo = {0, 1, 2, 3, 4};
 
